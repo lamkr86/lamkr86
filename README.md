@@ -11,7 +11,7 @@ Researching database management, data visualization, web development, and medica
 [![Email](https://img.shields.io/badge/Email-lamkr86%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:lamkr86@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=IJwe5lUAAAAJ&hl=vi&authuser=3)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Pham-Lam-16?ev=prf_overview)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-lam-pham-19654743a/)
 
 </div>
 
